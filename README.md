@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gayathri10112002
-- 👀 I’m interested in fullstack web development
+- 👀 I’m interested in Fullstack Web development
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me https://www.linkedin.com/in/gayathri-v-039486202
 
