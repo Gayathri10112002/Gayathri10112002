@@ -1,7 +1,7 @@
-<img  alt="code" align="center" width="300" src="https://i.pinimg.com/originals/38/5d/31/385d3110c91606ffbaf73be636ce910d.gif">
+<img  alt="code" align="center" width="600" src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif">
 <h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
-<img  alt="coding" width="240" align ="right"src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri10112002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri10112002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri10112002" alt="gayathri10112002" /></a> </p>
