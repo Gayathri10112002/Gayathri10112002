@@ -1,4 +1,4 @@
-![MasterHead](https://tse2.mm.bing.net/th?id=OIP.SPRW8P8Nrxrrir_Zu69aDwHaEK&pid=Api&P=0)
+
 <h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
 <img align ="right" alt="coding" width="270" src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif">
