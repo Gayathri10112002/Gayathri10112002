@@ -1,7 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
+[![MasterHead](https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif)
 <h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
-<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif">
+<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 - 🔭 I’m currently working on **Web Development**
 
