@@ -1,4 +1,4 @@
-<img  alt="code" justify-content="center" width="300" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+
 <h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **gayathrivenkatesan110@gmail.com**
 
-- ⚡ Fun fact **I am mad at capturing silly things😁. For me I am a best Photographer😊.**
+- ⚡ Fun fact **I am mad at capturing silly things📸😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
