@@ -2,6 +2,9 @@
 <h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
 <img align ="right" alt="coding" width="270" src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri10112002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri10112002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri10112002" alt="gayathri10112002" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -17,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
 <a href="https://codepen.io/https://codepen.io/gayathri10112002-the-reactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gayathri10112002-the-reactor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gayathri-v-039486202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayathri-v-039486202/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gayathriv1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gayathriv1011" height="30" width="40" /></a>
