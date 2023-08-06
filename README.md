@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React JS, Machine Learning**
+- 🌱 I’m currently learning **Angular, Machine Learning, SAP**
 
-- 👯 I’m looking to collaborate on **React JS Project**
+- 👯 I’m looking to collaborate on **Full Stack Web Development Project**
 
-- 💬 Ask me about **HTML, CSS, JS , UI/UX**
+- 💬 Ask me about **HTML, CSS, JS , UI/UX , Angular**
 
 - 📫 How to reach me **gayathrivenkatesan110@gmail.com**
 
