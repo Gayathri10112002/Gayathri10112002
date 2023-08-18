@@ -1,4 +1,4 @@
-<h1 align="center">Hi amigos👋, I'm Gayathri V</h1>
+<h1 align="center">Hi amigos👋, I'm Gayathri </h1>
 <h3 align="center">Enthusiasm in Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri10112002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri10112002" /> </p>
