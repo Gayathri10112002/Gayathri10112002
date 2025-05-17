@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SAP**
 
-- 🌱 I’m currently learning ** SAP stuffs, Angular, Machine Learning , **
+- 🌱 I’m currently learning **SAP stuffs, Angular, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayathri10112002?tab=repositories](https://github.com/Gayathri10112002?tab=repositories)
 
