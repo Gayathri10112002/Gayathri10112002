@@ -1,19 +1,17 @@
 <h1 align="center">Hi amigos👋, I'm Gayathri </h1>
-<h3 align="center">Enthusiasm in Full Stack Development</h3>
+<h3 align="center">Enthusiasm in SAP and Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri10112002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri10112002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri10112002" alt="gayathri10112002" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **SAP**
 
-- 🌱 I’m currently learning **Angular, Machine Learning , SAP**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 🌱 I’m currently learning ** SAP stuffs, Angular, Machine Learning , **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayathri10112002?tab=repositories](https://github.com/Gayathri10112002?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, UI/UX, JS , Java**
+- 💬 Ask me about **HTML, CSS, UI/UX, JS , Java, SAP, ABAP, Business process**
 
 - 📫 How to reach me **gayathrivenkatesan110@gmail.com**
 
