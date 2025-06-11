@@ -1,5 +1,5 @@
 <h1 align="center">Hi amigos👋, I'm Gayathri </h1>
-<h3 align="center">Enthusiasm in SAP and Full Stack Development</h3>
+<h3 align="center">Enthusiast SAP Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri10112002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri10112002" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SAP**
 
-- 🌱 I’m currently learning **SAP stuffs, Angular, Machine Learning**
+- 🌱 I’m currently learning **ABAP, BTP, Functional modules, IS oil**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayathri10112002?tab=repositories](https://github.com/Gayathri10112002?tab=repositories)
 
